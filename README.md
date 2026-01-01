@@ -6,3 +6,5 @@ This project demonstrates an original workflow where picking and consuming are h
 **Concept & Implementation:** Original design by the author
 
 Demo-only front-end implementation.
+
+https://central-kitting-mustaf.netlify.app/
